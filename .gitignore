@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+__pycache__
+venv
+dev-ui
+*.zip
+files/*.xlsx
+drivers/chromedriver
