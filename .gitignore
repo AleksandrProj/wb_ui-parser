@@ -6,3 +6,4 @@ dev-ui
 *.zip
 files/*.xlsx
 drivers/chromedriver
+*.docx
